@@ -1,4 +1,3 @@
-import { ForecastController } from '@src/controllers/forecast';
 import { AxiosStatic } from 'axios';
 
 export interface StormGlassPointSource {
